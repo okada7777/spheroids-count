@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-A = cv2.imread('spheroids_Snapshot_20240406_01_rgb.ome');
+A = cv2.imread('spheroids_Snapshot_20240406_01_rgb.ome')
 cv2.imshow(A)
 Rmin = 50
 Rmax = 800
